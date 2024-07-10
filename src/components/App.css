@@ -1,0 +1,11 @@
+.body{
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-wrap: wrap;
+}
+
+.list{
+    color: whitesmoke;
+}
